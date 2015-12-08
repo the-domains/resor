@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Resor]]></title>
+        <description><![CDATA[Resor]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 08 Dec 2015 08:26:23 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Samos - en underbar ö]]></title>
+            <description><![CDATA[<article><h1>Samos - en underbar ö</h1><p>Samos är en ö som länge har tagit emot turister. Ändå råder här ett lugn som är svårt att hitta på de mer kända turistöarna i Grekland. Samos är en underbar ö för dig som vill ha sol, bad, vacker natur och små byar att upptäcka. Självklart blir även Samos mer hektiskt under juli och augusti, så är det bara.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/df78f762-cb8e-46d0-b907-fb6b751fea9e.jpg"></article>]]></description>
+            <link>undefinedsamos-en-underbar-o/index.html</link>
+            <guid isPermaLink="false">c47b82b7-7b1f-4a12-9a0e-2920acb6f6ca</guid>
+            <pubDate>Tue, 08 Dec 2015 08:26:13 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
