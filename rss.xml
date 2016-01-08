@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Resor]]></title>
         <description><![CDATA[Resor]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/resor/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Dec 2015 08:26:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 08 Jan 2016 10:56:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/resor/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Samos - en underbar ö]]></title>
-            <description><![CDATA[<article><h1>Samos - en underbar ö</h1><p>Samos är en ö som länge har tagit emot turister. Ändå råder här ett lugn som är svårt att hitta på de mer kända turistöarna i Grekland. Samos är en underbar ö för dig som vill ha sol, bad, vacker natur och små byar att upptäcka. Självklart blir även Samos mer hektiskt under juli och augusti, så är det bara.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/df78f762-cb8e-46d0-b907-fb6b751fea9e.jpg"></article>]]></description>
-            <link>undefinedsamos-en-underbar-o/index.html</link>
+            <description><![CDATA[<article><h1>Samos - en underbar ö</h1><p>Samos är en ö som länge har tagit emot turister. Ändå råder här ett lugn som är svårt att hitta på de mer kända turistöarna i Grekland. Samos är en underbar ö för dig som vill ha sol, bad, vacker natur och små byar att upptäcka. Självklart blir även Samos mer hektiskt under juli och augusti, så är det bara.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/531c10fcc7b2763d704c92357b995153875eb3d4.jpg"></article>]]></description>
+            <link>https://thegrid.ai/resor/samos-en-underbar-o/index.html</link>
             <guid isPermaLink="false">c47b82b7-7b1f-4a12-9a0e-2920acb6f6ca</guid>
             <pubDate>Tue, 08 Dec 2015 08:26:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Resa snart?]]></title>
+            <description><![CDATA[<h1>Resa snart?</h1>]]></description>
+            <link>https://thegrid.ai/resor/resa-snart/index.html</link>
+            <guid isPermaLink="false">54036c95-36b7-4010-a76f-fe7dba894c05</guid>
+            <pubDate>Fri, 08 Jan 2016 10:55:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
