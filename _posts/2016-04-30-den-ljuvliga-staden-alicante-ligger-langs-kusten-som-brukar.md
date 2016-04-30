@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Den ljuvliga staden Alicante ligger längs kusten som brukar kallas Costa Blanca. Här hittar man stränder, shopping och gott om restauranger. Dessutom ligger Alicante bra till för dagsutflykter till omkringliggande byar och städer, däribland Valencia.'
-datePublished: '2016-04-30T14:07:07.367Z'
-dateModified: '2016-04-30T14:06:54.840Z'
+datePublished: '2016-04-30T14:07:33.090Z'
+dateModified: '2016-04-30T14:07:15.365Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-30-den-ljuvliga-staden-alicante-ligger-langs-kusten-som-brukar.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-30-den-ljuvliga-staden-alicante-ligger-langs-kusten-som-brukar.md
-published: true
 url: den-ljuvliga-staden-alicante-ligger-langs-kusten-som-brukar/index.html
 _type: Article
 
