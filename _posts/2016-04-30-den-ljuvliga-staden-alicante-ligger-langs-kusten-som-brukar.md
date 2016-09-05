@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-02T07:18:29.876Z'
+datePublished: '2016-09-02T07:30:40.911Z'
 sourcePath: >-
   _posts/2016-04-30-den-ljuvliga-staden-alicante-ligger-langs-kusten-som-brukar.md
 inFeed: true
@@ -7,7 +7,8 @@ authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-09-02T07:18:29.323Z'
+via: {}
+dateModified: '2016-09-02T07:30:40.485Z'
 title: Alicante på Costa Blanca
 publisher: {}
 description: >-
@@ -17,7 +18,6 @@ description: >-
   städer, däribland Valencia.
 inLanguage: null
 inNav: false
-via: {}
 starred: false
 url: den-ljuvliga-staden-alicante-ligger-langs-kusten-som-brukar/index.html
 _type: Article
